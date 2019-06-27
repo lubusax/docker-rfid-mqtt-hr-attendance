@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-# what's up?
 
 import xmlrpclib
 import socket
