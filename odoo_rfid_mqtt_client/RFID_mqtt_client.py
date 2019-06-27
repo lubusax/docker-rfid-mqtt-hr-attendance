@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-#
 
 import xmlrpclib
 import socket
@@ -30,7 +29,6 @@ DEBUG = os.environ.get("DEBUG") in ["true", "True"]
 
 
 if DEBUG:
-    print "debug mode"
     print "host: " + host
     print "port: " + port
     print "user_name: " + user_name

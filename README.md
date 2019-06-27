@@ -85,5 +85,3 @@ docker-compose build --pull
 docker-compose up -d
 docker-compose logs -f
 ```
-
-## New Chapter
